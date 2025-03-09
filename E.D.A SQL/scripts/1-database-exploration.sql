@@ -9,7 +9,7 @@ Finalidade:
 Tabela usadas:
 	- INFORMATION_SCHEMA.TABLES
 	- INFORMATION_SCHEMA.COLUMNS
-
+*/
 
 SELECT DISTINCT
 category
