@@ -1,0 +1,3 @@
+SELECT*
+FROM transacoes
+WHERE QtdePontos BETWEEN 100 AND 200
