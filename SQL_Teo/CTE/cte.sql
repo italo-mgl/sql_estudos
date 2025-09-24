@@ -28,4 +28,6 @@ tb_join AS (
 
 SELECT 
     COUNT(PrimCliente),
+    COUNT(UltCliente),
+    1.*COUNT(UltCliente) / COUNT(PrimCliente)
 FROM tb_join
